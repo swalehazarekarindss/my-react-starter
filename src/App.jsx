@@ -9,7 +9,8 @@ function App() {
   return (
     <>
     <div>
-     <HelloWorld/>
+     <HelloWorld
+       //Some Logic
      <Name/>
     </div>
        
