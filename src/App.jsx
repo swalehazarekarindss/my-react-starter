@@ -9,8 +9,9 @@ function App() {
   return (
     <>
     <div>
-     <HelloWorld
-       //Some Logic
+
+     <HelloWorld/>
+      //my merged changes
      <Name/>
     </div>
        
