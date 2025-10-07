@@ -9,7 +9,8 @@ function App() {
   return (
     <>
     <div>
-     <HelloWorld/>
+     <HelloWorld1234/>
+      //my other logic 
      <Name/>
     </div>
        
